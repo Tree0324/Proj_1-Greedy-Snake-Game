@@ -1,0 +1,10 @@
+For proj_1
+
+1.how to compile
+>>use command "make" in command windows
+(ensure that tool.h tool.cpp timer.h timer.cpp proj_1.cpp and makefile are in the same file)
+
+2.how to excute
+>>use command "./proj_1" and you can start the game.
+
+
